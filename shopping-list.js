@@ -28,7 +28,7 @@ const list = document.querySelector('ul');
 
                 function remove() {
                   element.remove();
-                  input.focus();
+                  
                 }
-                
+                input.focus();
           }
